@@ -1,0 +1,1620 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>EDUARDO</Machine>
+    <WindowsUser>eduar</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>com.companyname.eduardoos.maui</PackageIdentityName>
+    <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <RegisteredManifestChecksum>5C545A14DAADE7974F432279445023ACA45F65D90035247BD45F7DF1C0FF6DF3</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>com.companyname.eduardoos.maui_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>com.companyname.eduardoos.maui_9zz4h110yvjzm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>com.companyname.eduardoos.maui</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=User Name</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.1</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-09-17T07:32:49.515</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2024-09-17T07:32:49.098</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\eduardoos.Maui.runtimeconfig.json">
+      <PackagePath>eduardoos.Maui.runtimeconfig.json</PackagePath>
+      <Modified>2024-09-17T07:32:48.749</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\eduardoos.Maui.dll">
+      <PackagePath>eduardoos.Maui.dll</PackagePath>
+      <Modified>2024-09-17T07:32:47.234</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
+      <PackagePath>eduardoos.Maui.exe</PackagePath>
+      <Modified>2024-09-17T07:32:47.247</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\css\app - Copy.css">
+      <PackagePath>wwwroot\css\app - Copy.css</PackagePath>
+      <Modified>2024-09-17T07:08:39.440</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\Resources\Raw\AboutAssets.txt">
+      <PackagePath>AboutAssets.txt</PackagePath>
+      <Modified>2024-09-17T07:08:39.436</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\wwwroot\favicon.png">
+      <PackagePath>wwwroot\favicon.png</PackagePath>
+      <Modified>2024-09-17T07:08:39.438</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\wwwroot\index.html">
+      <PackagePath>wwwroot\index.html</PackagePath>
+      <Modified>2024-09-17T07:29:19.026</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\css\app.css">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\css\app.css</PackagePath>
+      <Modified>2024-09-17T07:30:03.828</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\css\bootstrap\bootstrap.min.css">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\css\bootstrap\bootstrap.min.css</PackagePath>
+      <Modified>2024-09-17T07:08:39.441</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\css\bootstrap\bootstrap.min.css.map">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\css\bootstrap\bootstrap.min.css.map</PackagePath>
+      <Modified>2024-09-17T07:08:39.443</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Montserrat_Alternates\MontserratAlternates-Black.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Montserrat_Alternates\MontserratAlternates-Black.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.867</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Montserrat_Alternates\MontserratAlternates-BlackItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Montserrat_Alternates\MontserratAlternates-BlackItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Montserrat_Alternates\MontserratAlternates-Bold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Montserrat_Alternates\MontserratAlternates-Bold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.872</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Montserrat_Alternates\MontserratAlternates-BoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Montserrat_Alternates\MontserratAlternates-BoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.874</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Montserrat_Alternates\MontserratAlternates-ExtraBold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Montserrat_Alternates\MontserratAlternates-ExtraBold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.877</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Montserrat_Alternates\MontserratAlternates-ExtraBoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Montserrat_Alternates\MontserratAlternates-ExtraBoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.880</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Montserrat_Alternates\MontserratAlternates-ExtraLight.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Montserrat_Alternates\MontserratAlternates-ExtraLight.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.882</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Montserrat_Alternates\MontserratAlternates-ExtraLightItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Montserrat_Alternates\MontserratAlternates-ExtraLightItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.884</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Montserrat_Alternates\MontserratAlternates-Italic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Montserrat_Alternates\MontserratAlternates-Italic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.886</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Montserrat_Alternates\MontserratAlternates-Light.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Montserrat_Alternates\MontserratAlternates-Light.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.889</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Montserrat_Alternates\MontserratAlternates-LightItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Montserrat_Alternates\MontserratAlternates-LightItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.892</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Montserrat_Alternates\MontserratAlternates-Medium.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Montserrat_Alternates\MontserratAlternates-Medium.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.894</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Montserrat_Alternates\MontserratAlternates-MediumItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Montserrat_Alternates\MontserratAlternates-MediumItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.897</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Montserrat_Alternates\MontserratAlternates-Regular.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Montserrat_Alternates\MontserratAlternates-Regular.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.900</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Montserrat_Alternates\MontserratAlternates-SemiBold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Montserrat_Alternates\MontserratAlternates-SemiBold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.901</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Montserrat_Alternates\MontserratAlternates-SemiBoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Montserrat_Alternates\MontserratAlternates-SemiBoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.904</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Montserrat_Alternates\MontserratAlternates-Thin.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Montserrat_Alternates\MontserratAlternates-Thin.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.906</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Montserrat_Alternates\MontserratAlternates-ThinItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Montserrat_Alternates\MontserratAlternates-ThinItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.910</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Montserrat_Alternates\OFL.txt">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Montserrat_Alternates\OFL.txt</PackagePath>
+      <Modified>2024-06-19T10:45:22.911</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\NunitoSans-Italic-VariableFont_YTLC,opsz,wdth,wght.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\NunitoSans-Italic-VariableFont_YTLC,opsz,wdth,wght.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.914</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\NunitoSans-VariableFont_YTLC,opsz,wdth,wght.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\NunitoSans-VariableFont_YTLC,opsz,wdth,wght.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.914</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\OFL.txt">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\OFL.txt</PackagePath>
+      <Modified>2024-06-19T10:45:22.914</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\README.txt">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\README.txt</PackagePath>
+      <Modified>2024-06-19T10:45:22.925</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_Condensed-Black.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_Condensed-Black.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.955</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_Condensed-BlackItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_Condensed-BlackItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.956</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_Condensed-Bold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_Condensed-Bold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.958</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_Condensed-BoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_Condensed-BoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.959</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_Condensed-ExtraBold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_Condensed-ExtraBold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.961</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_Condensed-ExtraBoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_Condensed-ExtraBoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.963</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_Condensed-ExtraLight.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_Condensed-ExtraLight.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.965</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_Condensed-ExtraLightItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_Condensed-ExtraLightItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.967</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_Condensed-Italic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_Condensed-Italic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.969</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_Condensed-Light.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_Condensed-Light.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.970</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_Condensed-LightItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_Condensed-LightItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.972</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_Condensed-Medium.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_Condensed-Medium.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.973</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_Condensed-MediumItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_Condensed-MediumItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_Condensed-Regular.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_Condensed-Regular.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.977</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_Condensed-SemiBold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_Condensed-SemiBold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.979</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_Condensed-SemiBoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_Condensed-SemiBoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.980</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_Expanded-Black.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_Expanded-Black.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.982</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_Expanded-BlackItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_Expanded-BlackItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.983</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_Expanded-Bold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_Expanded-Bold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.985</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_Expanded-BoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_Expanded-BoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.986</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_Expanded-ExtraBold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_Expanded-ExtraBold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.987</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_Expanded-ExtraBoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_Expanded-ExtraBoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.989</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_Expanded-ExtraLight.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_Expanded-ExtraLight.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.990</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_Expanded-ExtraLightItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_Expanded-ExtraLightItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.991</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_Expanded-Italic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_Expanded-Italic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.994</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_Expanded-Light.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_Expanded-Light.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.996</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_Expanded-LightItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_Expanded-LightItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.997</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_Expanded-Medium.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_Expanded-Medium.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.998</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_Expanded-MediumItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_Expanded-MediumItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_Expanded-Regular.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_Expanded-Regular.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.002</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_Expanded-SemiBold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_Expanded-SemiBold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.003</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_Expanded-SemiBoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_Expanded-SemiBoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.004</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_SemiCondensed-Black.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_SemiCondensed-Black.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.006</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_SemiCondensed-BlackItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_SemiCondensed-BlackItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.007</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_SemiCondensed-Bold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_SemiCondensed-Bold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.010</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_SemiCondensed-BoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_SemiCondensed-BoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.011</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_SemiCondensed-ExtraBold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_SemiCondensed-ExtraBold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.011</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_SemiCondensed-ExtraBoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_SemiCondensed-ExtraBoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.011</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_SemiCondensed-ExtraLight.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_SemiCondensed-ExtraLight.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.011</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_SemiCondensed-ExtraLightItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_SemiCondensed-ExtraLightItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.011</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_SemiCondensed-Italic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_SemiCondensed-Italic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.011</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_SemiCondensed-Light.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_SemiCondensed-Light.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.011</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_SemiCondensed-LightItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_SemiCondensed-LightItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.011</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_SemiCondensed-Medium.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_SemiCondensed-Medium.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.011</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_SemiCondensed-MediumItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_SemiCondensed-MediumItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.011</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_SemiCondensed-Regular.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_SemiCondensed-Regular.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.027</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_SemiCondensed-SemiBold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_SemiCondensed-SemiBold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.027</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_SemiCondensed-SemiBoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_SemiCondensed-SemiBoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.027</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_SemiExpanded-Black.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_SemiExpanded-Black.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.027</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_SemiExpanded-BlackItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_SemiExpanded-BlackItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.027</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_SemiExpanded-Bold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_SemiExpanded-Bold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.027</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_SemiExpanded-BoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_SemiExpanded-BoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.027</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_SemiExpanded-ExtraBold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_SemiExpanded-ExtraBold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.037</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_SemiExpanded-ExtraBoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_SemiExpanded-ExtraBoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.037</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_SemiExpanded-ExtraLight.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_SemiExpanded-ExtraLight.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.037</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_SemiExpanded-ExtraLightItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_SemiExpanded-ExtraLightItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.037</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_SemiExpanded-Italic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_SemiExpanded-Italic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.044</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_SemiExpanded-Light.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_SemiExpanded-Light.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.045</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_SemiExpanded-LightItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_SemiExpanded-LightItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.045</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_SemiExpanded-Medium.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_SemiExpanded-Medium.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.045</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_SemiExpanded-MediumItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_SemiExpanded-MediumItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.045</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_SemiExpanded-Regular.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_SemiExpanded-Regular.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.045</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_SemiExpanded-SemiBold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_SemiExpanded-SemiBold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.045</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt_SemiExpanded-SemiBoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt_SemiExpanded-SemiBoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.045</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt-Black.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt-Black.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.927</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt-BlackItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt-BlackItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.930</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt-Bold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt-Bold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.931</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt-BoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt-BoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.933</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt-ExtraBold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt-ExtraBold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.936</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt-ExtraBoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt-ExtraBoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.937</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt-ExtraLight.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt-ExtraLight.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.938</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt-ExtraLightItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt-ExtraLightItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.940</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt-Italic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt-Italic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.941</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt-Light.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt-Light.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.943</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt-LightItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt-LightItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.944</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt-Medium.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt-Medium.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.946</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt-MediumItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt-MediumItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt-Regular.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt-Regular.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.949</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt-SemiBold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt-SemiBold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.951</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_10pt-SemiBoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_10pt-SemiBoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:22.952</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_Condensed-Black.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_Condensed-Black.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.081</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_Condensed-BlackItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_Condensed-BlackItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.083</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_Condensed-Bold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_Condensed-Bold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.085</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_Condensed-BoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_Condensed-BoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.085</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_Condensed-ExtraBold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_Condensed-ExtraBold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.087</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_Condensed-ExtraBoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_Condensed-ExtraBoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.089</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_Condensed-ExtraLight.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_Condensed-ExtraLight.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.089</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_Condensed-ExtraLightItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_Condensed-ExtraLightItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.092</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_Condensed-Italic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_Condensed-Italic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.094</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_Condensed-Light.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_Condensed-Light.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.095</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_Condensed-LightItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_Condensed-LightItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.097</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_Condensed-Medium.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_Condensed-Medium.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.098</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_Condensed-MediumItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_Condensed-MediumItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.100</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_Condensed-Regular.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_Condensed-Regular.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.102</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_Condensed-SemiBold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_Condensed-SemiBold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.103</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_Condensed-SemiBoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_Condensed-SemiBoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.104</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_Expanded-Black.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_Expanded-Black.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.106</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_Expanded-BlackItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_Expanded-BlackItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.108</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_Expanded-Bold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_Expanded-Bold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.109</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_Expanded-BoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_Expanded-BoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.110</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_Expanded-ExtraBold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_Expanded-ExtraBold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.112</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_Expanded-ExtraBoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_Expanded-ExtraBoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.113</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_Expanded-ExtraLight.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_Expanded-ExtraLight.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.114</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_Expanded-ExtraLightItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_Expanded-ExtraLightItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.117</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_Expanded-Italic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_Expanded-Italic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.118</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_Expanded-Light.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_Expanded-Light.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.119</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_Expanded-LightItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_Expanded-LightItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.121</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_Expanded-Medium.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_Expanded-Medium.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.122</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_Expanded-MediumItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_Expanded-MediumItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.126</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_Expanded-Regular.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_Expanded-Regular.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.128</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_Expanded-SemiBold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_Expanded-SemiBold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.129</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_Expanded-SemiBoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_Expanded-SemiBoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.131</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_SemiCondensed-Black.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_SemiCondensed-Black.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_SemiCondensed-BlackItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_SemiCondensed-BlackItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.135</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_SemiCondensed-Bold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_SemiCondensed-Bold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.136</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_SemiCondensed-BoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_SemiCondensed-BoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.139</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_SemiCondensed-ExtraBold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_SemiCondensed-ExtraBold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.141</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_SemiCondensed-ExtraBoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_SemiCondensed-ExtraBoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.142</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_SemiCondensed-ExtraLight.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_SemiCondensed-ExtraLight.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.144</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_SemiCondensed-ExtraLightItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_SemiCondensed-ExtraLightItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.145</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_SemiCondensed-Italic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_SemiCondensed-Italic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.147</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_SemiCondensed-Light.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_SemiCondensed-Light.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.149</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_SemiCondensed-LightItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_SemiCondensed-LightItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.152</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_SemiCondensed-Medium.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_SemiCondensed-Medium.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.152</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_SemiCondensed-MediumItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_SemiCondensed-MediumItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.154</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_SemiCondensed-Regular.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_SemiCondensed-Regular.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.155</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_SemiCondensed-SemiBold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_SemiCondensed-SemiBold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.156</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_SemiCondensed-SemiBoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_SemiCondensed-SemiBoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.159</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_SemiExpanded-Black.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_SemiExpanded-Black.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_SemiExpanded-BlackItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_SemiExpanded-BlackItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.163</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_SemiExpanded-Bold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_SemiExpanded-Bold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.164</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_SemiExpanded-BoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_SemiExpanded-BoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.167</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_SemiExpanded-ExtraBold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_SemiExpanded-ExtraBold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.168</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_SemiExpanded-ExtraBoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_SemiExpanded-ExtraBoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.169</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_SemiExpanded-ExtraLight.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_SemiExpanded-ExtraLight.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.170</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_SemiExpanded-ExtraLightItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_SemiExpanded-ExtraLightItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.172</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_SemiExpanded-Italic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_SemiExpanded-Italic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.174</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_SemiExpanded-Light.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_SemiExpanded-Light.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.176</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_SemiExpanded-LightItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_SemiExpanded-LightItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.177</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_SemiExpanded-Medium.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_SemiExpanded-Medium.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.179</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_SemiExpanded-MediumItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_SemiExpanded-MediumItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.182</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_SemiExpanded-Regular.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_SemiExpanded-Regular.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.183</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_SemiExpanded-SemiBold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_SemiExpanded-SemiBold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.186</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt_SemiExpanded-SemiBoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt_SemiExpanded-SemiBoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.187</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt-Black.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt-Black.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.045</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt-BlackItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt-BlackItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.045</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt-Bold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt-Bold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.045</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt-BoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt-BoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.060</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt-ExtraBold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt-ExtraBold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.062</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt-ExtraBoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt-ExtraBoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.064</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt-ExtraLight.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt-ExtraLight.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.065</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt-ExtraLightItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt-ExtraLightItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.066</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt-Italic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt-Italic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.068</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt-Light.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt-Light.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.069</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt-LightItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt-LightItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.070</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt-Medium.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt-Medium.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.073</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt-MediumItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt-MediumItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.074</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt-Regular.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt-Regular.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.076</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt-SemiBold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt-SemiBold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.077</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Nunito_Sans\static\NunitoSans_7pt-SemiBoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Nunito_Sans\static\NunitoSans_7pt-SemiBoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.079</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway\OFL.txt">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway\OFL.txt</PackagePath>
+      <Modified>2024-06-19T10:45:23.225</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway\Raleway-Italic-VariableFont_wght.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway\Raleway-Italic-VariableFont_wght.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.229</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway\Raleway-VariableFont_wght.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway\Raleway-VariableFont_wght.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.232</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway\README.txt">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway\README.txt</PackagePath>
+      <Modified>2024-06-19T10:45:23.225</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway\static\Raleway-Black.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway\static\Raleway-Black.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.234</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway\static\Raleway-BlackItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway\static\Raleway-BlackItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.236</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway\static\Raleway-Bold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway\static\Raleway-Bold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.237</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway\static\Raleway-BoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway\static\Raleway-BoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.240</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway\static\Raleway-ExtraBold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway\static\Raleway-ExtraBold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.242</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway\static\Raleway-ExtraBoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway\static\Raleway-ExtraBoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.244</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway\static\Raleway-ExtraLight.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway\static\Raleway-ExtraLight.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.245</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway\static\Raleway-ExtraLightItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway\static\Raleway-ExtraLightItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.247</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway\static\Raleway-Italic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway\static\Raleway-Italic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.249</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway\static\Raleway-Light.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway\static\Raleway-Light.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.251</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway\static\Raleway-LightItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway\static\Raleway-LightItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.253</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway\static\Raleway-Medium.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway\static\Raleway-Medium.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.256</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway\static\Raleway-MediumItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway\static\Raleway-MediumItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.258</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway\static\Raleway-Regular.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway\static\Raleway-Regular.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.260</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway\static\Raleway-SemiBold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway\static\Raleway-SemiBold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.262</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway\static\Raleway-SemiBoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway\static\Raleway-SemiBoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.265</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway\static\Raleway-Thin.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway\static\Raleway-Thin.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.267</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway\static\Raleway-ThinItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway\static\Raleway-ThinItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.269</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway-Black.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway-Black.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.189</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway-BlackItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway-BlackItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.191</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway-Bold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway-Bold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.193</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway-BoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway-BoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.195</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway-ExtraBold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway-ExtraBold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.197</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway-ExtraBoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway-ExtraBoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.199</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway-ExtraLight.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway-ExtraLight.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.201</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway-ExtraLightItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway-ExtraLightItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.202</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway-Italic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway-Italic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.205</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway-Light.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway-Light.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.206</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway-LightItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway-LightItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.208</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway-Medium.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway-Medium.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.211</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway-MediumItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway-MediumItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.214</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway-Regular.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway-Regular.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.216</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway-SemiBold.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway-SemiBold.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.218</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway-SemiBoldItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway-SemiBoldItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.220</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway-Thin.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway-Thin.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.222</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\wwwroot\font\Raleway-ThinItalic.ttf">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\font\Raleway-ThinItalic.ttf</PackagePath>
+      <Modified>2024-06-19T10:45:23.224</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+      <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
+      <Modified>2024-09-17T07:08:52.966</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+      <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
+      <Modified>2024-09-17T07:08:52.982</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+      <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
+      <Modified>2024-09-17T07:08:52.998</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+      <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
+      <Modified>2024-09-17T07:08:53.045</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+      <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
+      <Modified>2024-09-17T07:08:53.199</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+      <PackagePath>OpenSans-Regular.ttf</PackagePath>
+      <Modified>2024-09-17T07:08:39.353</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+      <PackagePath>appicon.ico</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+      <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+      <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+      <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+      <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+      <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+      <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+      <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+      <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+      <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+      <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+      <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+      <PackagePath>appiconLogo.scale-100.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+      <PackagePath>appiconLogo.scale-125.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+      <PackagePath>appiconLogo.scale-150.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+      <PackagePath>appiconLogo.scale-200.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+      <PackagePath>appiconLogo.scale-400.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+      <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+      <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+      <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+      <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+      <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+      <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+      <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+      <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+      <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+      <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+      <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+      <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+      <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+      <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+      <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+      <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+      <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+      <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+      <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+      <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+      <PackagePath>appiconWideTile.scale-100.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+      <PackagePath>appiconWideTile.scale-125.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+      <PackagePath>appiconWideTile.scale-150.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+      <PackagePath>appiconWideTile.scale-200.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+      <PackagePath>appiconWideTile.scale-400.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+      <PackagePath>dotnet_bot.scale-100.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+      <PackagePath>dotnet_bot.scale-125.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+      <PackagePath>dotnet_bot.scale-150.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+      <PackagePath>dotnet_bot.scale-200.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+      <PackagePath>dotnet_bot.scale-400.png</PackagePath>
+      <Modified>2024-09-17T07:08:54.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\eduardoos.Maui.deps.json">
+      <PackagePath>eduardoos.Maui.deps.json</PackagePath>
+      <Modified>2024-09-17T07:32:48.586</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
+      <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
+      <Modified>2023-10-16T19:41:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\WinRT.Runtime.dll">
+      <PackagePath>WinRT.Runtime.dll</PackagePath>
+      <Modified>2023-10-16T19:41:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.aspnetcore.authorization\8.0.7\lib\net8.0\Microsoft.AspNetCore.Authorization.dll">
+      <PackagePath>Microsoft.AspNetCore.Authorization.dll</PackagePath>
+      <Modified>2024-06-14T17:28:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.aspnetcore.components\8.0.7\lib\net8.0\Microsoft.AspNetCore.Components.dll">
+      <PackagePath>Microsoft.AspNetCore.Components.dll</PackagePath>
+      <Modified>2024-06-14T17:28:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.aspnetcore.components.forms\8.0.7\lib\net8.0\Microsoft.AspNetCore.Components.Forms.dll">
+      <PackagePath>Microsoft.AspNetCore.Components.Forms.dll</PackagePath>
+      <Modified>2024-06-14T17:28:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.aspnetcore.components.web\8.0.7\lib\net8.0\Microsoft.AspNetCore.Components.Web.dll">
+      <PackagePath>Microsoft.AspNetCore.Components.Web.dll</PackagePath>
+      <Modified>2024-06-14T17:28:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.aspnetcore.components.webview\8.0.0\lib\net8.0\Microsoft.AspNetCore.Components.WebView.dll">
+      <PackagePath>Microsoft.AspNetCore.Components.WebView.dll</PackagePath>
+      <Modified>2023-11-01T01:08:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.aspnetcore.components.webview.maui\8.0.72\lib\net8.0-windows10.0.19041\Microsoft.AspNetCore.Components.WebView.Maui.dll">
+      <PackagePath>Microsoft.AspNetCore.Components.WebView.Maui.dll</PackagePath>
+      <Modified>2024-08-05T21:21:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.aspnetcore.metadata\8.0.7\lib\net8.0\Microsoft.AspNetCore.Metadata.dll">
+      <PackagePath>Microsoft.AspNetCore.Metadata.dll</PackagePath>
+      <Modified>2024-06-14T17:28:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.extensions.configuration\8.0.0\lib\net8.0\Microsoft.Extensions.Configuration.dll">
+      <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
+      <Modified>2023-10-31T14:59:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.extensions.configuration.abstractions\8.0.0\lib\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll">
+      <PackagePath>Microsoft.Extensions.Configuration.Abstractions.dll</PackagePath>
+      <Modified>2023-10-31T14:59:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.extensions.configuration.binder\8.0.0\lib\net8.0\Microsoft.Extensions.Configuration.Binder.dll">
+      <PackagePath>Microsoft.Extensions.Configuration.Binder.dll</PackagePath>
+      <Modified>2023-10-31T14:59:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.extensions.configuration.fileextensions\8.0.0\lib\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll">
+      <PackagePath>Microsoft.Extensions.Configuration.FileExtensions.dll</PackagePath>
+      <Modified>2023-10-31T14:59:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.extensions.configuration.json\8.0.0\lib\net8.0\Microsoft.Extensions.Configuration.Json.dll">
+      <PackagePath>Microsoft.Extensions.Configuration.Json.dll</PackagePath>
+      <Modified>2023-10-31T14:59:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.extensions.dependencyinjection\8.0.0\lib\net8.0\Microsoft.Extensions.DependencyInjection.dll">
+      <PackagePath>Microsoft.Extensions.DependencyInjection.dll</PackagePath>
+      <Modified>2023-10-31T14:59:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\8.0.1\lib\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll">
+      <PackagePath>Microsoft.Extensions.DependencyInjection.Abstractions.dll</PackagePath>
+      <Modified>2024-02-14T23:51:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.extensions.fileproviders.abstractions\8.0.0\lib\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll">
+      <PackagePath>Microsoft.Extensions.FileProviders.Abstractions.dll</PackagePath>
+      <Modified>2023-10-31T14:59:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.extensions.fileproviders.composite\8.0.0\lib\net8.0\Microsoft.Extensions.FileProviders.Composite.dll">
+      <PackagePath>Microsoft.Extensions.FileProviders.Composite.dll</PackagePath>
+      <Modified>2023-10-31T14:59:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.extensions.fileproviders.embedded\8.0.0\lib\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll">
+      <PackagePath>Microsoft.Extensions.FileProviders.Embedded.dll</PackagePath>
+      <Modified>2023-11-01T01:06:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.extensions.fileproviders.physical\8.0.0\lib\net8.0\Microsoft.Extensions.FileProviders.Physical.dll">
+      <PackagePath>Microsoft.Extensions.FileProviders.Physical.dll</PackagePath>
+      <Modified>2023-10-31T14:59:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.extensions.filesystemglobbing\8.0.0\lib\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll">
+      <PackagePath>Microsoft.Extensions.FileSystemGlobbing.dll</PackagePath>
+      <Modified>2023-10-31T14:58:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.extensions.logging\8.0.0\lib\net8.0\Microsoft.Extensions.Logging.dll">
+      <PackagePath>Microsoft.Extensions.Logging.dll</PackagePath>
+      <Modified>2023-10-31T14:59:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.extensions.logging.abstractions\8.0.1\lib\net8.0\Microsoft.Extensions.Logging.Abstractions.dll">
+      <PackagePath>Microsoft.Extensions.Logging.Abstractions.dll</PackagePath>
+      <Modified>2024-02-14T23:51:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.extensions.logging.debug\8.0.0\lib\net8.0\Microsoft.Extensions.Logging.Debug.dll">
+      <PackagePath>Microsoft.Extensions.Logging.Debug.dll</PackagePath>
+      <Modified>2023-10-31T14:59:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.extensions.options\8.0.2\lib\net8.0\Microsoft.Extensions.Options.dll">
+      <PackagePath>Microsoft.Extensions.Options.dll</PackagePath>
+      <Modified>2024-01-18T03:05:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.extensions.primitives\8.0.0\lib\net8.0\Microsoft.Extensions.Primitives.dll">
+      <PackagePath>Microsoft.Extensions.Primitives.dll</PackagePath>
+      <Modified>2023-10-31T14:58:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.graphics.win2d\1.2.0\lib\net6.0-windows10.0.19041.0\Microsoft.Graphics.Canvas.Interop.dll">
+      <PackagePath>Microsoft.Graphics.Canvas.Interop.dll</PackagePath>
+      <Modified>2024-03-11T15:36:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.jsinterop\8.0.7\lib\net8.0\Microsoft.JSInterop.dll">
+      <PackagePath>Microsoft.JSInterop.dll</PackagePath>
+      <Modified>2024-06-14T17:28:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.compatibility\8.0.72\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.dll">
+      <PackagePath>Microsoft.Maui.Controls.Compatibility.dll</PackagePath>
+      <Modified>2024-08-05T21:21:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.dll">
+      <PackagePath>Microsoft.Maui.Controls.dll</PackagePath>
+      <Modified>2024-08-05T21:19:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.xaml\8.0.72\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Xaml.dll">
+      <PackagePath>Microsoft.Maui.Controls.Xaml.dll</PackagePath>
+      <Modified>2024-08-05T21:18:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.core\8.0.72\lib\net8.0-windows10.0.19041\Microsoft.Maui.dll">
+      <PackagePath>Microsoft.Maui.dll</PackagePath>
+      <Modified>2024-08-05T21:19:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.essentials\8.0.72\lib\net8.0-windows10.0.19041\Microsoft.Maui.Essentials.dll">
+      <PackagePath>Microsoft.Maui.Essentials.dll</PackagePath>
+      <Modified>2024-08-05T21:19:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.graphics\8.0.72\lib\net8.0-windows10.0.19041\Microsoft.Maui.Graphics.dll">
+      <PackagePath>Microsoft.Maui.Graphics.dll</PackagePath>
+      <Modified>2024-08-05T21:19:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.graphics.win2d.winui.desktop\8.0.72\lib\net8.0-windows10.0.19041\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll">
+      <PackagePath>Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll</PackagePath>
+      <Modified>2024-08-05T21:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\lib\net6.0-windows10.0.18362.0\Microsoft.InteractiveExperiences.Projection.dll">
+      <PackagePath>Microsoft.InteractiveExperiences.Projection.dll</PackagePath>
+      <Modified>2024-06-07T00:23:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\lib\net6.0-windows10.0.18362.0\Microsoft.WinUI.dll">
+      <PackagePath>Microsoft.WinUI.dll</PackagePath>
+      <Modified>2024-06-07T17:05:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AppLifecycle.Projection.dll">
+      <PackagePath>Microsoft.Windows.AppLifecycle.Projection.dll</PackagePath>
+      <Modified>2024-06-07T17:05:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AppNotifications.Builder.Projection.dll">
+      <PackagePath>Microsoft.Windows.AppNotifications.Builder.Projection.dll</PackagePath>
+      <Modified>2024-06-07T17:05:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AppNotifications.Projection.dll">
+      <PackagePath>Microsoft.Windows.AppNotifications.Projection.dll</PackagePath>
+      <Modified>2024-06-07T17:05:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll">
+      <PackagePath>Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll</PackagePath>
+      <Modified>2024-06-07T17:05:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.Resources.Projection.dll">
+      <PackagePath>Microsoft.Windows.ApplicationModel.Resources.Projection.dll</PackagePath>
+      <Modified>2024-06-07T06:06:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll">
+      <PackagePath>Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll</PackagePath>
+      <Modified>2024-06-07T17:05:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.Management.Deployment.Projection.dll">
+      <PackagePath>Microsoft.Windows.Management.Deployment.Projection.dll</PackagePath>
+      <Modified>2024-06-07T17:05:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.PushNotifications.Projection.dll">
+      <PackagePath>Microsoft.Windows.PushNotifications.Projection.dll</PackagePath>
+      <Modified>2024-06-07T17:05:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.Security.AccessControl.Projection.dll">
+      <PackagePath>Microsoft.Windows.Security.AccessControl.Projection.dll</PackagePath>
+      <Modified>2024-06-07T17:05:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.System.Power.Projection.dll">
+      <PackagePath>Microsoft.Windows.System.Power.Projection.dll</PackagePath>
+      <Modified>2024-06-07T17:05:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.System.Projection.dll">
+      <PackagePath>Microsoft.Windows.System.Projection.dll</PackagePath>
+      <Modified>2024-06-07T17:05:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.Widgets.Projection.dll">
+      <PackagePath>Microsoft.Windows.Widgets.Projection.dll</PackagePath>
+      <Modified>2024-03-28T23:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
+      <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
+      <Modified>2024-06-07T17:05:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\system.io.pipelines\8.0.0\lib\net8.0\System.IO.Pipelines.dll">
+      <PackagePath>System.IO.Pipelines.dll</PackagePath>
+      <Modified>2023-10-31T14:59:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\ar\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>ar\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:19:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\ca\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>ca\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:19:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\cs\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>cs\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:20:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\da\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>da\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:20:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\de\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>de\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:20:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\el\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>el\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:19:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\es\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>es\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:19:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\fi\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>fi\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:20:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\fr\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>fr\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:19:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\he\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>he\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:19:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\hi\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>hi\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:19:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\hr\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>hr\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:19:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\hu\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>hu\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:19:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\id\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>id\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\it\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>it\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:19:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\ja\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>ja\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:18:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\ko\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>ko\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:19:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\ms\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>ms\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\nb\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>nb\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:19:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\nl\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>nl\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:19:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\pl\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>pl\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\pt-BR\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>pt-BR\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\pt\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>pt\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\ro\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>ro\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:19:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\ru\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>ru\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:19:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\sk\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>sk\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:18:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\sv\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>sv\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:19:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\th\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>th\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:19:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\tr\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>tr\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:19:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\uk\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>uk\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:19:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\vi\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>vi\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:19:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\zh-HK\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>zh-HK\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:19:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\zh-Hans\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:18:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\zh-Hant\Microsoft.Maui.Controls.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.Maui.Controls.resources.dll</PackagePath>
+      <Modified>2024-08-05T21:19:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.graphics.win2d\1.2.0\runtimes\win-x64\native\Microsoft.Graphics.Canvas.dll">
+      <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
+      <Modified>2024-03-11T15:36:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
+      <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
+      <Modified>2024-06-07T06:05:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\bin\Debug\net8.0\eduardoos.Razor.dll">
+      <PackagePath>eduardoos.Razor.dll</PackagePath>
+      <Modified>2024-09-17T07:27:51.124</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\obj\Debug\net8.0\staticwebassets.development.json">
+      <PackagePath>eduardoos.Razor.staticwebassets.runtime.json</PackagePath>
+      <Modified>2024-09-17T07:18:30.110</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.compatibility\8.0.72\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
+      <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
+      <Modified>2024-08-05T20:52:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.pri">
+      <PackagePath>Microsoft.Maui.Controls.pri</PackagePath>
+      <Modified>2024-08-05T20:50:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\.nuget\packages\microsoft.maui.core\8.0.72\lib\net8.0-windows10.0.19041\Microsoft.Maui.pri">
+      <PackagePath>Microsoft.Maui.pri</PackagePath>
+      <Modified>2024-08-05T20:48:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Maui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\eduardoos.Maui.styles.css">
+      <PackagePath>wwwroot\eduardoos.Maui.styles.css</PackagePath>
+      <Modified>2024-09-17T07:31:45.174</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eduar\source\repos\eduardoos\eduardoos.Razor\obj\Debug\net8.0\scopedcss\projectbundle\eduardoos.Razor.bundle.scp.css">
+      <PackagePath>wwwroot\_content\eduardoos.Razor\eduardoos.Razor.bundle.scp.css</PackagePath>
+      <Modified>2024-09-17T07:18:30.175</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\eduar\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.5.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.5</Name>
+      <Version>5001.159.55.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.5, MinVersion = 5001.159.55.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\eduar\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.5.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\eduar\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.5.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.5</Name>
+      <Version>5001.159.55.0</Version>
+      <Architecture>win32</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.5, MinVersion = 5001.159.55.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\eduar\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.5.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\eduar\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.5.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.5</Name>
+      <Version>5001.159.55.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.5, MinVersion = 5001.159.55.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\eduar\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.5.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\eduar\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.5.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.5</Name>
+      <Version>5001.159.55.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.5, MinVersion = 5001.159.55.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\eduar\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.5.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

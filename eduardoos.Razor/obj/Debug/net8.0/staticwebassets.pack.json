@@ -1,0 +1,929 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\eduardoos.Razor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\eduardoos.Razor.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Montserrat_Alternates\\MontserratAlternates-Black.ttf",
+      "PackagePath": "staticwebassets\\font\\Montserrat_Alternates\\MontserratAlternates-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Montserrat_Alternates\\MontserratAlternates-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Montserrat_Alternates\\MontserratAlternates-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Montserrat_Alternates\\MontserratAlternates-Bold.ttf",
+      "PackagePath": "staticwebassets\\font\\Montserrat_Alternates\\MontserratAlternates-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Montserrat_Alternates\\MontserratAlternates-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Montserrat_Alternates\\MontserratAlternates-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Montserrat_Alternates\\MontserratAlternates-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\font\\Montserrat_Alternates\\MontserratAlternates-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Montserrat_Alternates\\MontserratAlternates-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Montserrat_Alternates\\MontserratAlternates-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Montserrat_Alternates\\MontserratAlternates-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\font\\Montserrat_Alternates\\MontserratAlternates-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Montserrat_Alternates\\MontserratAlternates-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Montserrat_Alternates\\MontserratAlternates-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Montserrat_Alternates\\MontserratAlternates-Italic.ttf",
+      "PackagePath": "staticwebassets\\font\\Montserrat_Alternates\\MontserratAlternates-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Montserrat_Alternates\\MontserratAlternates-Light.ttf",
+      "PackagePath": "staticwebassets\\font\\Montserrat_Alternates\\MontserratAlternates-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Montserrat_Alternates\\MontserratAlternates-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Montserrat_Alternates\\MontserratAlternates-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Montserrat_Alternates\\MontserratAlternates-Medium.ttf",
+      "PackagePath": "staticwebassets\\font\\Montserrat_Alternates\\MontserratAlternates-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Montserrat_Alternates\\MontserratAlternates-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Montserrat_Alternates\\MontserratAlternates-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Montserrat_Alternates\\MontserratAlternates-Regular.ttf",
+      "PackagePath": "staticwebassets\\font\\Montserrat_Alternates\\MontserratAlternates-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Montserrat_Alternates\\MontserratAlternates-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\font\\Montserrat_Alternates\\MontserratAlternates-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Montserrat_Alternates\\MontserratAlternates-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Montserrat_Alternates\\MontserratAlternates-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Montserrat_Alternates\\MontserratAlternates-Thin.ttf",
+      "PackagePath": "staticwebassets\\font\\Montserrat_Alternates\\MontserratAlternates-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Montserrat_Alternates\\MontserratAlternates-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Montserrat_Alternates\\MontserratAlternates-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Montserrat_Alternates\\OFL.txt",
+      "PackagePath": "staticwebassets\\font\\Montserrat_Alternates\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\NunitoSans-Italic-VariableFont_YTLC,opsz,wdth,wght.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\NunitoSans-Italic-VariableFont_YTLC,opsz,wdth,wght.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\NunitoSans-VariableFont_YTLC,opsz,wdth,wght.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\NunitoSans-VariableFont_YTLC,opsz,wdth,wght.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\OFL.txt",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\README.txt",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\README.txt"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt-Black.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt-Bold.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt-Italic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt-Light.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt-Medium.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt-Regular.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Condensed-Black.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Condensed-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Condensed-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Condensed-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Condensed-Bold.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Condensed-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Condensed-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Condensed-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Condensed-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Condensed-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Condensed-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Condensed-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Condensed-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Condensed-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Condensed-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Condensed-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Condensed-Italic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Condensed-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Condensed-Light.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Condensed-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Condensed-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Condensed-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Condensed-Medium.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Condensed-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Condensed-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Condensed-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Condensed-Regular.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Condensed-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Condensed-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Condensed-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Condensed-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Condensed-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Expanded-Black.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Expanded-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Expanded-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Expanded-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Expanded-Bold.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Expanded-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Expanded-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Expanded-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Expanded-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Expanded-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Expanded-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Expanded-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Expanded-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Expanded-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Expanded-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Expanded-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Expanded-Italic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Expanded-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Expanded-Light.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Expanded-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Expanded-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Expanded-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Expanded-Medium.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Expanded-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Expanded-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Expanded-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Expanded-Regular.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Expanded-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Expanded-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Expanded-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Expanded-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_Expanded-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiCondensed-Black.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiCondensed-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiCondensed-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiCondensed-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiCondensed-Bold.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiCondensed-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiCondensed-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiCondensed-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiCondensed-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiCondensed-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiCondensed-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiCondensed-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiCondensed-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiCondensed-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiCondensed-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiCondensed-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiCondensed-Italic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiCondensed-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiCondensed-Light.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiCondensed-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiCondensed-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiCondensed-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiCondensed-Medium.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiCondensed-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiCondensed-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiCondensed-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiCondensed-Regular.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiCondensed-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiCondensed-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiCondensed-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiCondensed-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiCondensed-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiExpanded-Black.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiExpanded-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiExpanded-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiExpanded-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiExpanded-Bold.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiExpanded-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiExpanded-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiExpanded-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiExpanded-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiExpanded-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiExpanded-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiExpanded-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiExpanded-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiExpanded-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiExpanded-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiExpanded-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiExpanded-Italic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiExpanded-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiExpanded-Light.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiExpanded-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiExpanded-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiExpanded-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiExpanded-Medium.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiExpanded-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiExpanded-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiExpanded-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiExpanded-Regular.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiExpanded-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiExpanded-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiExpanded-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiExpanded-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_10pt_SemiExpanded-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt-Black.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt-Bold.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt-Italic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt-Light.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt-Medium.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt-Regular.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Condensed-Black.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Condensed-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Condensed-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Condensed-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Condensed-Bold.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Condensed-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Condensed-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Condensed-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Condensed-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Condensed-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Condensed-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Condensed-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Condensed-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Condensed-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Condensed-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Condensed-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Condensed-Italic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Condensed-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Condensed-Light.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Condensed-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Condensed-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Condensed-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Condensed-Medium.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Condensed-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Condensed-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Condensed-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Condensed-Regular.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Condensed-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Condensed-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Condensed-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Condensed-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Condensed-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Expanded-Black.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Expanded-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Expanded-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Expanded-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Expanded-Bold.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Expanded-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Expanded-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Expanded-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Expanded-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Expanded-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Expanded-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Expanded-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Expanded-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Expanded-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Expanded-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Expanded-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Expanded-Italic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Expanded-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Expanded-Light.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Expanded-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Expanded-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Expanded-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Expanded-Medium.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Expanded-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Expanded-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Expanded-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Expanded-Regular.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Expanded-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Expanded-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Expanded-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Expanded-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_Expanded-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiCondensed-Black.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiCondensed-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiCondensed-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiCondensed-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiCondensed-Bold.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiCondensed-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiCondensed-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiCondensed-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiCondensed-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiCondensed-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiCondensed-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiCondensed-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiCondensed-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiCondensed-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiCondensed-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiCondensed-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiCondensed-Italic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiCondensed-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiCondensed-Light.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiCondensed-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiCondensed-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiCondensed-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiCondensed-Medium.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiCondensed-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiCondensed-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiCondensed-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiCondensed-Regular.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiCondensed-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiCondensed-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiCondensed-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiCondensed-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiCondensed-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiExpanded-Black.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiExpanded-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiExpanded-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiExpanded-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiExpanded-Bold.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiExpanded-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiExpanded-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiExpanded-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiExpanded-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiExpanded-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiExpanded-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiExpanded-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiExpanded-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiExpanded-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiExpanded-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiExpanded-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiExpanded-Italic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiExpanded-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiExpanded-Light.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiExpanded-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiExpanded-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiExpanded-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiExpanded-Medium.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiExpanded-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiExpanded-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiExpanded-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiExpanded-Regular.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiExpanded-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiExpanded-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiExpanded-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiExpanded-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Nunito_Sans\\static\\NunitoSans_7pt_SemiExpanded-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway-Black.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway-Bold.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway-Italic.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway-Light.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway-Medium.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway-Regular.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway-Thin.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway\\OFL.txt",
+      "PackagePath": "staticwebassets\\font\\Raleway\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway\\README.txt",
+      "PackagePath": "staticwebassets\\font\\Raleway\\README.txt"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway\\Raleway-Italic-VariableFont_wght.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway\\Raleway-Italic-VariableFont_wght.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway\\Raleway-VariableFont_wght.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway\\Raleway-VariableFont_wght.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway\\static\\Raleway-Black.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway\\static\\Raleway-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway\\static\\Raleway-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway\\static\\Raleway-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway\\static\\Raleway-Bold.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway\\static\\Raleway-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway\\static\\Raleway-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway\\static\\Raleway-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway\\static\\Raleway-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway\\static\\Raleway-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway\\static\\Raleway-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway\\static\\Raleway-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway\\static\\Raleway-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway\\static\\Raleway-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway\\static\\Raleway-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway\\static\\Raleway-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway\\static\\Raleway-Italic.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway\\static\\Raleway-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway\\static\\Raleway-Light.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway\\static\\Raleway-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway\\static\\Raleway-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway\\static\\Raleway-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway\\static\\Raleway-Medium.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway\\static\\Raleway-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway\\static\\Raleway-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway\\static\\Raleway-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway\\static\\Raleway-Regular.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway\\static\\Raleway-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway\\static\\Raleway-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway\\static\\Raleway-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway\\static\\Raleway-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway\\static\\Raleway-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway\\static\\Raleway-Thin.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway\\static\\Raleway-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Razor\\wwwroot\\font\\Raleway\\static\\Raleway-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Raleway\\static\\Raleway-ThinItalic.ttf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.eduardoos.Razor.props",
+      "PackagePath": "build\\eduardoos.Razor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.eduardoos.Razor.props",
+      "PackagePath": "buildMultiTargeting\\eduardoos.Razor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.eduardoos.Razor.props",
+      "PackagePath": "buildTransitive\\eduardoos.Razor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.eduardoos.Razor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

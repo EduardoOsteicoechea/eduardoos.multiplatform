@@ -1,0 +1,77 @@
+﻿@inject NavigationManager NavigationManager
+
+<div id="menuContainer" class="flex-column overflow-auto">
+	<div id="menuButton">
+		<div id="menuButtonBar1"></div>
+		<div id="menuButtonBar3"></div>
+		<div id="menuButtonBar2"></div>
+	</div>
+	<div id="menuTray" class="flex-column overflow-auto">
+		<div id="menuCloseButton">
+			<div id="menuCloseButtonBar1"></div>
+			<div id="menuCloseButtonBar2"></div>
+		</div>
+		<nav id="menuNavigation">
+			<div id="homrePageAnchorContainer">
+				<h2 id="homeAnchorHeading">Home</h2>
+				<p id="homeAnchorMessage">Let's talk about collaboration opportunities for your success</p>
+				<NavLink class="nav-link" href="" Match="NavLinkMatch.All">Home Page</NavLink>
+			</div>
+			<div id="sessionAnchorsContainer">
+				<h2 id="SessionAnchorHeading">Session</h2>
+				<div id="loginAnchorContainer">
+					<h3 id="loginAnchorHeading">Log In</h3>
+					<p id="loginAnchorMessage">Close your session and reserve your data for yourself</p>
+					<NavLink class="nav-link" href="login">Start session</NavLink>
+				</div>
+				<div id="accountAnchorContainer">
+					<h3 id="accountAnchorHeading">Account</h3>
+					<p id="accountAnchorMessage">View and modify your account data</p>
+					<NavLink class="nav-link" href="account">View details</NavLink>
+				</div>
+				<div id="signupAnchorContainer">
+					<h3 id="signupAnchorHeading">Sign Up</h3>
+					<p id="signupAnchorMessage">Register to access special services and offers</p>
+					<NavLink class="nav-link" href="register">Register</NavLink>
+				</div>
+				<div id="logoutAnchorContainer">
+					<h3 id="logoutAnchorHeading">Log Out</h3>
+					<p id="logoutAnchorMessage">Close your session and reserve your data for yourself</p>
+					<button @onclick="EndSessionAndNavigateToHomePage">End Session</button>
+				</div>
+			</div>
+			<div id="portfolioAnchorContainer">
+				<h2 id="portfolioAnchorHeading">Portfolio</h2>
+				<p id="portfolioAnchorMessage">Let's talk about collaboration opportunities for your success</p>
+				<NavLink class="nav-link" href="portfolio">View Portfolio</NavLink>
+			</div>
+			<div id="productsAnchorContainer">
+				<h2 id="productsAnchorHeading">Products</h2>
+				<p id="productsAnchorMessage">Let's talk about collaboration opportunities for your success</p>
+				<NavLink class="nav-link" href="products">View Products</NavLink>
+			</div>
+			<div id="servicesAnchorContainer">
+				<h2 id="servicesAnchorHeading">Services</h2>
+				<p id="servicesAnchorMessage">Let's talk about collaboration opportunities for your success</p>
+				<NavLink class="nav-link" href="services">Explore Services</NavLink>
+			</div>
+			<div id="profileAnchorContainer">
+				<h2 id="profileAnchorHeading">Profile</h2>
+				<p id="profileAnchorMessage">Let's talk about collaboration opportunities for your success</p>
+				<NavLink class="nav-link" href="profile">View Profile</NavLink>
+			</div>
+			<div id="contactAnchorContainer">
+				<h2 id="contactAnchorHeading">Let's Talk</h2>
+				<p id="contactAnchorMessage">Let's talk about collaboration opportunities for your success</p>
+				<NavLink class="nav-link" href="contact">Contact Me</NavLink>
+			</div>
+		</nav>
+	</div>
+</div>
+
+@code {
+	private void EndSessionAndNavigateToHomePage()
+	{
+		NavigationManager.NavigateTo("/", true);
+	}
+}

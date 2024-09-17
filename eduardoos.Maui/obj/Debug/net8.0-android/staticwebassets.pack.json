@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Maui\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\eduardoos.Maui.styles.css",
+      "PackagePath": "staticwebassets\\eduardoos.Maui.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Maui\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\eduar\\source\\repos\\eduardoos\\eduardoos.Maui\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.build.eduardoos.Maui.props",
+      "PackagePath": "build\\eduardoos.Maui.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildMultiTargeting.eduardoos.Maui.props",
+      "PackagePath": "buildMultiTargeting\\eduardoos.Maui.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildTransitive.eduardoos.Maui.props",
+      "PackagePath": "buildTransitive\\eduardoos.Maui.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.eduardoos.Maui.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

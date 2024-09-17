@@ -1,0 +1,32 @@
+﻿@page "/"
+@using System.Net.Http
+@using Microsoft.AspNetCore.Components
+
+<PageTitle>Thanks Lord</PageTitle>
+
+@ArticleContent
+
+@code {
+	private string ArticleContent = string.Empty;
+
+	private async Task FetchArticleAsync()
+	{
+		var httpClient = new HttpClient();
+		var response = await httpClient.GetAsync("https://www.googleapis.com/books/v1/volumes?q=harry+potter");
+		// var response = await httpClient.GetAsync("http:localhost:5043/articles/1");
+
+		if(response.IsSuccessStatusCode)
+		{
+			ArticleContent = await response.Content.ReadAsStringAsync();
+		}
+		else
+		{
+			Console.WriteLine($"Error fetching article: {response.StatusCode}");
+		}
+	}
+
+	protected override async Task OnInitializedAsync()
+	{
+		await FetchArticleAsync();
+	}
+}
